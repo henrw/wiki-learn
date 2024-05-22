@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "A chrome extension that invites end-users to co-design website layout & interactions with AI's assistance and generates finegrained data.",
+    "message": "A chrome extension that invites end-users to co-design website layout & interactions with AI's assistance and generates finegrained data."
+  },
+  "extensionName": {
+    "description": "Web Colab",
+    "message": "Web Colab"
+  }
+}
