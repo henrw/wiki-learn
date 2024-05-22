@@ -1,5 +1,5 @@
-# Wiki-learn: Augmenting Wikipedia-based learning with generative instruction and assessment
-This repo is folked and bulit on [Chrome Extension Boilerplate with React + Vite + TypeScript](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite). Follow the instruction below to start developing.
+# Wiki-learn: Chrome Extension augmenting Wikipedia-based learning with generative instruction and assessment
+This repo is forked and built on [Chrome Extension Boilerplate with React + Vite + TypeScript](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite). Follow the instruction below to start developing.
 
 <div align="center">
 <img src="public/icon-128.png" alt="logo"/>
